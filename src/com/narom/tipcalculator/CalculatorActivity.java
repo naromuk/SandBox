@@ -17,5 +17,11 @@ public class CalculatorActivity extends Activity {
     protected void onStart() {
         super.onStart();
 
+
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
     }
 }
