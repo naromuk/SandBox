@@ -1,0 +1,16 @@
+public class PracticeClass {
+
+  private Integer mInteger;
+
+  public PracticeClass(Integer int){
+    mInteger = int;
+  }
+  
+  public void setInt(Integer int){
+    mInteger = int;
+  }
+  
+  public Integer getInt{
+    return mInteger;
+  }
+}
