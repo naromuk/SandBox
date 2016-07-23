@@ -24,4 +24,9 @@ public class CalculatorActivity extends Activity {
     protected void onResume() {
         super.onResume();
     }
+
+    @Override
+    public CharSequence onCreateDescription() {
+        return super.onCreateDescription();
+    }
 }
