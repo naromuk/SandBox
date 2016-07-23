@@ -18,4 +18,10 @@ public class CalculatorActivity extends Activity {
         super.onStart();
 
     }
+
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+    }
 }
