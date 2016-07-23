@@ -28,4 +28,14 @@ public class CalculatorActivity extends Activity {
     public CharSequence onCreateDescription() {
         return super.onCreateDescription();
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
 }
