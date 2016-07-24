@@ -39,4 +39,9 @@ public class CalculatorActivity extends Activity {
     protected void onStop() {
         super.onStop();
     }
+
+    @Override
+    protected void onPostResume() {
+        super.onPostResume();
+    }
 }
