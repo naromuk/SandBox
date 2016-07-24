@@ -33,5 +33,10 @@ public class CalculatorActivity extends Activity {
     protected void onDestroy() {
         super.onDestroy();
     }
-    
+
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
 }
