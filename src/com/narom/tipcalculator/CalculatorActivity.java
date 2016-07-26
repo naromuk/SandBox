@@ -44,4 +44,9 @@ public class CalculatorActivity extends Activity {
     protected void onPostResume() {
         super.onPostResume();
     }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+    }
 }
