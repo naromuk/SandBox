@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f47827cd-2685-4353-84cc-d4d919c73205" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/narom/tipcalculator/CalculatorActivity.java" afterPath="$PROJECT_DIR$/src/com/narom/tipcalculator/CalculatorActivity.java" />
     </list>
     <ignored path="TipCalculator.iws" />
@@ -27,11 +28,13 @@
       <file leaf-file-name="CalculatorActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/narom/tipcalculator/CalculatorActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="561">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="e#759#760#0" expanded="true" />
                 <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#840#841#0" expanded="true" />
+                <element signature="e#876#877#0" expanded="true" />
                 <element signature="e#924#925#0" expanded="true" />
                 <element signature="e#957#958#0" expanded="true" />
               </folding>
@@ -454,6 +457,8 @@
           <folding>
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
           </folding>
@@ -477,6 +482,8 @@
           <folding>
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
           </folding>
@@ -500,6 +507,8 @@
           <folding>
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
           </folding>
@@ -523,6 +532,8 @@
           <folding>
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
           </folding>
@@ -536,6 +547,8 @@
           <folding>
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
           </folding>
@@ -549,6 +562,8 @@
           <folding>
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
           </folding>
@@ -567,11 +582,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/narom/tipcalculator/CalculatorActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="561">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
             <element signature="e#924#925#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
           </folding>
