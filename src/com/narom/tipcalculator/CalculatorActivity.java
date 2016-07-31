@@ -1,6 +1,7 @@
 package com.narom.tipcalculator;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 
 public class CalculatorActivity extends Activity {
@@ -43,5 +44,10 @@ public class CalculatorActivity extends Activity {
     @Override
     protected void onPostResume() {
         super.onPostResume();
+    }
+
+    @Override
+    public Intent getIntent() {
+        return super.getIntent();
     }
 }
