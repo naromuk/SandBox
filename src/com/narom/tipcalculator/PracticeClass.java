@@ -9,6 +9,7 @@ public class PracticeClass {
     }
     // this is a test
     // 2nd comment
+    // 3rd comment
     public void setInt(Integer number) {
         mInteger = number;
     }
