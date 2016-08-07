@@ -8,7 +8,7 @@ public class PracticeClass {
         mInteger = num;
     }
     // this is a test
-    
+    // this is another test
     public void setInt(Integer number) {
         mInteger = number;
     }
